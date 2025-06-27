@@ -1,1 +1,21 @@
-..
+body { 
+    background-color: black; 
+    color: pink;
+    font-family: "Trebuchet MS", "Comic Sans MS", cursive;
+    marging: 0, 
+}
+
+header { 
+    font-size: 60px;
+    border-bottom: double 5px blue; 
+    padding: 6px;
+    text-alingn: center; 
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px; 
+} 
