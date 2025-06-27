@@ -2,7 +2,7 @@ body {
     background-color: black; 
     color: pink;
     font-family: "Trebuchet MS", "Comic Sans MS", cursive;
-    marging: 0, 
+    margin: 0, 
 }
 
 header { 
