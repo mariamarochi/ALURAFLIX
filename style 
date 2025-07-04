@@ -1,21 +1,30 @@
 body { 
     background-color: black; 
-    color: pink;
+    color: rgb(216, 137, 150);
     font-family: "Trebuchet MS", "Comic Sans MS", cursive;
     margin: 0, 
 }
 
 header { 
-    font-size: 60px;
-    border-bottom: double 5px blue; 
-    padding: 6px;
-    text-alingn: center; 
+    font-size: 60px; 
+    padding: 6px;t
+    text-align: center; 
 }
 
 h1 {
     font-size: 30px;
+    border-bottom: double 5px rgb(101, 167, 221); 
+     text-align: center;
 }
 
 p {
     font-size: 20px; 
+    text-align: center;
 } 
+  
+iframe, video {
+    display: block;
+    marging: 0 auto;
+    width: 80%; 
+    max-width: 700px;
+}
