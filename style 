@@ -14,7 +14,7 @@ header {
 h1 {
     font-size: 30px;
     border-bottom: double 5px rgb(101, 167, 221); 
-     text-align: center;
+    text-align: center;
 }
 
 p {
