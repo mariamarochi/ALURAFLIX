@@ -8,7 +8,7 @@ body {
 header { 
     font-size: 60px; 
     padding: 6px;t
-    text-align: center; 
+    text-align: center;
 }
 
 h1 {
