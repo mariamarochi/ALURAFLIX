@@ -24,7 +24,7 @@ p {
   
 iframe, video {
     display: block;
-    marging: 0 auto;
+    margin: 0 auto;
     width: 80%; 
     max-width: 700px;
 }
